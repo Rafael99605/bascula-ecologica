@@ -1,1 +1,1 @@
-# bascula-ecologica
+# Báscula Ecológica del Campus
